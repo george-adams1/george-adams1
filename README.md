@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own fintech startup
+- 🔭 I’m currently working on my own fintech startup & writing a book about AGI
 - 🌱 I’m currently learning machine learning in Python
 - 👯 I’m looking to collaborate on anything, really!
 - 🤔 I’m looking for help with Zipline
