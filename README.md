@@ -13,4 +13,6 @@
 - 📫 How to reach me: Telegram: @george_adams1, Email: george.adamopoulos13@gmail.com
 - ⚡ Fun fact: Similar to earthquakes, the moon has moonquakes!
 
+### "It always seems impossible until it's done." -Nelson Mandela
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=george-adams1&count_private=true)&emsp;&emsp;&emsp;
