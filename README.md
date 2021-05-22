@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ssantoshp/count.svg" />
+  <img src="https://profile-counter.glitch.me/george-adams1/count.svg" />
 </p>
 
 - 🔭 I’m currently working on my own fintech startup & writing a book about AGI
