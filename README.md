@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning machine learning in Python
 - 👯 I’m looking to collaborate on anything, really!
 - 🤔 I’m looking for help with Zipline
-- 💬 Ask me about artificial general intellgience
+- 💬 Ask me about artificial general intelligence
 - 📫 How to reach me: Telegram: @george_adams1, Email: george.adamopoulos13@gmail.com
 - ⚡ Fun fact: Similar to earthquakes, the moon has moonquakes!
 
